@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- written by WED 2.4.0r2 -->
+<doc>
+  <objects>
+    <object class="WED_ObjPlacement" id="19" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHWhiteCanopyRSGlogoWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978646583" longitude="-88.567163615" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHWhiteCanopyRSGlogoWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="18" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHCanopyThrustmasterWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978632947" longitude="-88.567019923" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHCanopyThrustmasterWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="17" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHCanopySportysWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978697716" longitude="-88.566727800" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHCanopySportysWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="16" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHCanopyNAFIWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.979093143" longitude="-88.567042029" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHCanopyNAFIWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="11" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHBlackCanopyBLULogoWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978961334" longitude="-88.567242567" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHBlackCanopyBLULogoWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="12" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHBlackCanopyWATlogowide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978768165" longitude="-88.567046766" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHBlackCanopyWATlogowide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_Root" id="1" parent_id="0">
+      <children>
+        <child id="2"/>
+        <child id="3"/>
+        <child id="4"/>
+      </children>
+      <hierarchy name="root"/>
+    </object>
+    <object class="WED_ObjPlacement" id="13" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHCanopyFlightOutfittersWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978842024" longitude="-88.567283622" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHCanopyFlightOutfittersWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_Select" id="2" parent_id="1">
+      <children/>
+      <hierarchy name="selection"/>
+      <selection>
+        <sel id="19"/>
+      </selection>
+    </object>
+    <object class="WED_ObjPlacement" id="14" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHCanopyFSAWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978855659" longitude="-88.566765697" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHCanopyFSAWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_KeyObjects" id="3" parent_id="1">
+      <children/>
+      <hierarchy name="choices"/>
+      <keys>
+        <key name="airport" id="0"/>
+      </keys>
+    </object>
+    <object class="WED_ObjPlacement" id="15" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHCanopyGleimWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.979032920" longitude="-88.566756223" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHCanopyGleimWide.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_Group" id="4" parent_id="1">
+      <children>
+        <child id="19"/>
+        <child id="18"/>
+        <child id="17"/>
+        <child id="16"/>
+        <child id="15"/>
+        <child id="14"/>
+        <child id="13"/>
+        <child id="12"/>
+        <child id="11"/>
+        <child id="10"/>
+      </children>
+      <hierarchy name="world" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="10" parent_id="4">
+      <children/>
+      <hierarchy name="PEOSHBlueCanopyKingLogoWide.obj" locked="0" hidden="0"/>
+      <point latitude="43.978957777" longitude="-88.567024458" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WideTents/PEOSHBlueCanopyKingLogoWide.obj" show_level="4 Mega tons"/>
+    </object>
+  </objects>
+  <prefs>
+    <pref name="PropertyPane0/Closed"/>
+    <pref name="doc/export_target" value="5"/>
+    <pref name="doc/xml_compatibility" value="204"/>
+    <pref name="map/east" value="-88.566082"/>
+    <pref name="map/navaid_map_vis" value="0"/>
+    <pref name="map/north" value="43.979569"/>
+    <pref name="map/obj_density" value="6"/>
+    <pref name="map/pavement_alpha" value="2"/>
+    <pref name="map/preview_vis" value="1"/>
+    <pref name="map/real_lines_vis" value="1"/>
+    <pref name="map/slippy_vis" value="1"/>
+    <pref name="map/south" value="43.978148"/>
+    <pref name="map/vertices_vis" value="1"/>
+    <pref name="map/west" value="-88.567901"/>
+    <pref name="map/world_map_vis" value="0"/>
+    <pref name="map_Airport Beacon_Kind" value="69"/>
+    <pref name="map_Autogen_Autogen Height" value="10.000000"/>
+    <pref name="map_Autogen_Resource" value=""/>
+    <pref name="map_Boundary_.Markings" value=""/>
+    <pref name="map_Boundary_Lights" value=""/>
+    <pref name="map_Boundary_Markings" value=""/>
+    <pref name="map_Exclusions_Exclusions" value=""/>
+    <pref name="map_Facades_Height" value="10.000000"/>
+    <pref name="map_Facades_Pick Walls" value="1"/>
+    <pref name="map_Facades_Resource" value="src/MisterX_Library/Airport/Fences_Barriers/Metal_Fence_Red.fac"/>
+    <pref name="map_Forests_Density" value="1.000000"/>
+    <pref name="map_Forests_Resource" value="simventure/for/broad/sm.for"/>
+    <pref name="map_Helipad_Edge Lights" value="15"/>
+    <pref name="map_Helipad_Markings" value="67"/>
+    <pref name="map_Helipad_Roughness" value="0.000000"/>
+    <pref name="map_Helipad_Shoulder" value="56"/>
+    <pref name="map_Helipad_Surface" value="26"/>
+    <pref name="map_Hole_.Markings" value=""/>
+    <pref name="map_Hole_Lights" value=""/>
+    <pref name="map_Hole_Markings" value=""/>
+    <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
+    <pref name="map_Light Fixture_Fixture Type" value="40"/>
+    <pref name="map_Lines_Resource" value="src/handyobjects/Dirt_Track.lin"/>
+    <pref name="map_Objects_Object" value="WideTents/PEOSHWhiteCanopyRSGlogoWide.obj"/>
+    <pref name="map_Objects_Show with" value="749"/>
+    <pref name="map_Polygons_Heading" value="0.000000"/>
+    <pref name="map_Polygons_Resource" value="MisterX_Library/Airport/Ground_Markings/Painted_Signs/Characters_White.pol"/>
+    <pref name="map_Polygons_Use Texture Map - Orthophoto" value="1"/>
+    <pref name="map_Ramp Start_Airlines" value=""/>
+    <pref name="map_Ramp Start_Equipment Type" value="133"/>
+    <pref name="map_Ramp Start_Ramp Operation Type" value="692"/>
+    <pref name="map_Ramp Start_Ramp Start Type" value="141"/>
+    <pref name="map_Ramp Start_Size" value="686"/>
+    <pref name="map_Roads_Layer" value="0"/>
+    <pref name="map_Roads_Name" value="N"/>
+    <pref name="map_Roads_Resource" value="lib/g10/roads.net"/>
+    <pref name="map_Roads_Slop" value="10"/>
+    <pref name="map_Roads_Type" value="100"/>
+    <pref name="map_Runway_Appch" value="51"/>
+    <pref name="map_Runway_Center" value="1"/>
+    <pref name="map_Runway_Dist" value="1"/>
+    <pref name="map_Runway_Edge" value="5"/>
+    <pref name="map_Runway_Marks" value="62"/>
+    <pref name="map_Runway_REIL" value="10"/>
+    <pref name="map_Runway_Rough" value="0.000000"/>
+    <pref name="map_Runway_Shoulder" value="56"/>
+    <pref name="map_Runway_Surface" value="28"/>
+    <pref name="map_Runway_TDZL" value="0"/>
+    <pref name="map_Sealane_Buoys" value="1"/>
+    <pref name="map_Sign_Size" value="19"/>
+    <pref name="map_Sign_Style" value="23"/>
+    <pref name="map_Sign_Text" value="{no-entry}"/>
+    <pref name="map_Strings_Resource" value="simventure/flagmen/RightFacingEast.str"/>
+    <pref name="map_Strings_Spacing" value="10.000000"/>
+    <pref name="map_Taxi Routes_Allowed Vehicles" value="144"/>
+    <pref name="map_Taxi Routes_Arrival" value=""/>
+    <pref name="map_Taxi Routes_Departure" value=""/>
+    <pref name="map_Taxi Routes_ILS" value=""/>
+    <pref name="map_Taxi Routes_Name" value="N"/>
+    <pref name="map_Taxi Routes_Oneway" value="1"/>
+    <pref name="map_Taxi Routes_Runway" value="413"/>
+    <pref name="map_Taxi Routes_Size" value="689"/>
+    <pref name="map_Taxi Routes_Slop" value="10"/>
+    <pref name="map_Taxilines_.Markings" value=""/>
+    <pref name="map_Taxilines_Lights" value=""/>
+    <pref name="map_Taxilines_Markings" value=""/>
+    <pref name="map_Taxiway_.Markings" value=""/>
+    <pref name="map_Taxiway_Heading" value="0.000000"/>
+    <pref name="map_Taxiway_Lights" value=""/>
+    <pref name="map_Taxiway_Markings" value=""/>
+    <pref name="map_Taxiway_Pavement" value="28"/>
+    <pref name="map_Taxiway_Roughness" value="0.000000"/>
+    <pref name="map_Tower Viewpoint_Tower Height" value="25.000000"/>
+    <pref name="map_Truck Destination_Truck Types" value=""/>
+    <pref name="map_Truck Parking_." value="3"/>
+    <pref name="map_Truck Parking_Truck Type" value="154"/>
+    <pref name="map_Vertex_Snap To Vertices" value="1"/>
+    <pref name="map_Windsock_Lit" value="0"/>
+    <pref name="map_preview_window/camera_agl" value="13.033371"/>
+    <pref name="map_preview_window/camera_lat" value="43.978638"/>
+    <pref name="map_preview_window/camera_lon" value="-88.566930"/>
+    <pref name="map_preview_window/camera_pitch" value="-14.399988"/>
+    <pref name="map_preview_window/camera_yaw" value="-3.800000"/>
+    <pref name="map_preview_window/height" value="628"/>
+    <pref name="map_preview_window/visible" value="1"/>
+    <pref name="map_preview_window/width" value="1024"/>
+    <pref name="map_preview_window/x_loc" value="1231"/>
+    <pref name="map_preview_window/y_loc" value="947"/>
+    <pref name="window/height" value="1297"/>
+    <pref name="window/main_split" value="302"/>
+    <pref name="window/main_split2" value="1543"/>
+    <pref name="window/prev_split" value="983"/>
+    <pref name="window/prop_split" value="759"/>
+    <pref name="window/width" value="2560"/>
+    <pref name="window/x_loc" value="209"/>
+    <pref name="window/y_loc" value="1378"/>
+  </prefs>
+</doc>

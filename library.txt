@@ -1,0 +1,11 @@
+A
+800
+LIBRARY
+
+EXPORT simventure/sponsor/tents/wide/BLU.obj WideTents/PEOSHBlackCanopyBLULogoWide.obj
+EXPORT simventure/sponsor/tents/wide/GLEIM.obj WideTents/PEOSHCanopyGleimWide.obj
+EXPORT simventure/sponsor/tents/wide/SPORTYS.obj WideTents/PEOSHCanopySportysWide.obj
+EXPORT simventure/sponsor/tents/wide/FSA.obj WideTents/PEOSHCanopyFSAWide.obj
+EXPORT simventure/sponsor/tents/wide/NAFI.obj WideTents/PEOSHCanopyNAFIWide.obj
+EXPORT simventure/sponsor/tents/wide/KING.obj WideTents/PEOSHBlueCanopyKingLogoWide.obj
+EXPORT simventure/sponsor/tents/wide/RSG.obj WideTents/PEOSHWhiteCanopyRSGlogoWide.obj
