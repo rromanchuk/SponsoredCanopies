@@ -15,3 +15,8 @@ EXPORT simventure/sponsor/tents/wide/ThrustMasters.obj WideTents/PEOSHCanopyThru
 EXPORT simventure/sponsor/tents/wide/JustPlaneSilly.obj WideTents/PEOSHCanopyJustPlaneSillyWide.obj
 EXPORT simventure/sponsor/tents/wide/SkyBlueRadio.obj WideTents/PEOSHCanopySkyBlueRadioWide.obj
 EXPORT simventure/sponsor/tents/wide/OpposingBases.obj WideTents/PEOSHCanopyOpposingBasesWide.obj
+EXPORT simventure/sponsor/tents/wide/4LE.obj WideTents/PEOSHWhiteCanopy4LElogoWide.obj
+EXPORT simventure/sponsor/tents/wide/FlyingMidwest.obj WideTents/PEOSHCanopyFlyingMidwestWide.obj
+EXPORT simventure/sponsor/tents/wide/ClosedTraffic.obj WideTents/PEOSHCanopyClosedTrafficWide.obj
+EXPORT simventure/sponsor/tents/wide/Emily.obj WideTents/PEOSHCanopyEmilyWide.obj
+
