@@ -10,6 +10,8 @@ EXPORT simventure/sponsor/tents/wide/NAFI.obj WideTents/PEOSHCanopyNAFIWide.obj
 EXPORT simventure/sponsor/tents/wide/KING.obj WideTents/PEOSHBlueCanopyKingLogoWide.obj
 EXPORT simventure/sponsor/tents/wide/RSG.obj WideTents/PEOSHWhiteCanopyRSGlogoWide.obj
 EXPORT simventure/sponsor/tents/wide/WATI.obj WideTents/PEOSHBlackCanopyWATlogowide.obj
+EXPORT simventure/sponsor/tents/wide/2RF.obj WideTents/PEOSHWhiteCanopy2RFlogoWide.obj
+EXPORT simventure/sponsor/tents/wide/NAVI.obj WideTents/PEOSHWhiteCanopyNAVlogoWide.obj
 EXPORT simventure/sponsor/tents/wide/FlightOutfitters.obj WideTents/PEOSHCanopyFlightOutfittersWide.obj
 EXPORT simventure/sponsor/tents/wide/ThrustMasters.obj WideTents/PEOSHCanopyThrustmasterWide.obj
 EXPORT simventure/sponsor/tents/wide/JustPlaneSilly.obj WideTents/PEOSHCanopyJustPlaneSillyWide.obj
