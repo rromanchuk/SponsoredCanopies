@@ -3,38 +3,94 @@ A
 LIBRARY
 
 EXPORT simventure/sponsor/tents/wide/BLU.obj WideTents/PEOSHBlackCanopyBLULogoWide.obj
+
 EXPORT simventure/sponsor/tents/wide/GLEIM.obj WideTents/PEOSHCanopyGleimWide.obj
+EXPORT simventure/sponsor/banners/GLEIM.obj Banners/GLEIM.obj
+
 EXPORT simventure/sponsor/tents/wide/SPORTYS.obj WideTents/PEOSHCanopySportysWide.obj
+EXPORT simventure/sponsor/banners/Sportys.obj Banners/Sportys.obj
+
 EXPORT simventure/sponsor/tents/wide/FSA.obj WideTents/PEOSHCanopyFSAWide.obj
+EXPORT simventure/sponsor/banners/FSA.obj Banners/FSA.obj
+
+
 EXPORT simventure/sponsor/tents/wide/NAFI.obj WideTents/PEOSHCanopyNAFIWide.obj
+EXPORT simventure/sponsor/banners/NAFI.obj Banners/NAFI.obj
+
 EXPORT simventure/sponsor/tents/wide/KING.obj WideTents/PEOSHBlueCanopyKingLogoWide.obj
+EXPORT simventure/sponsor/banners/King.obj Banners/King.obj
+
 EXPORT simventure/sponsor/tents/wide/RSG.obj WideTents/PEOSHWhiteCanopyRSGlogoWide.obj
+EXPORT simventure/sponsor/banners/RSG.obj Banners/RSG.obj
+
 EXPORT simventure/sponsor/tents/wide/WATI.obj WideTents/PEOSHBlackCanopyWATlogowide.obj
+EXPORT simventure/sponsor/banners/WATI.obj Banners/WATI.obj
+
 EXPORT simventure/sponsor/tents/wide/2RF.obj WideTents/PEOSHWhiteCanopy2RFlogoWide.obj
+EXPORT simventure/sponsor/banners/2RF.obj Banners/2RF.obj
+
 EXPORT simventure/sponsor/tents/wide/NAVI.obj WideTents/PEOSHWhiteCanopyNAVlogoWide.obj
+EXPORT simventure/sponsor/banners/NAVI.obj Banners/NAVlogo.obj
+
 EXPORT simventure/sponsor/tents/wide/FlightOutfitters.obj WideTents/PEOSHCanopyFlightOutfittersWide.obj
+
 EXPORT simventure/sponsor/tents/wide/ThrustMasters.obj WideTents/PEOSHCanopyThrustmasterWide.obj
+EXPORT simventure/sponsor/banners/ThrustMasters.obj Banners/ThrustMasters.obj
+
 EXPORT simventure/sponsor/tents/wide/JustPlaneSilly.obj WideTents/PEOSHCanopyJustPlaneSillyWide.obj
+EXPORT simventure/sponsor/banners/JustPlaneSilly.obj Banners/JustPlaneSilly.obj
+
 EXPORT simventure/sponsor/tents/wide/SkyBlueRadio.obj WideTents/PEOSHCanopySkyBlueRadioWide.obj
+EXPORT simventure/sponsor/banners/SkyBlueRadio.obj Banners/SkyBlueRadio.obj
+
 EXPORT simventure/sponsor/tents/wide/OpposingBases.obj WideTents/PEOSHCanopyOpposingBasesWide.obj
+EXPORT simventure/sponsor/banners/OpposingBases.obj Banners/OpposingBases.obj
+
 EXPORT simventure/sponsor/tents/wide/4LE.obj WideTents/PEOSHWhiteCanopy4LElogoWide.obj
+EXPORT simventure/sponsor/banners/4LE.obj Banners/4LE.obj
+
 EXPORT simventure/sponsor/tents/wide/Chops.obj WideTents/PEOSHWhiteCanopyChopslogoWide.obj
+EXPORT simventure/sponsor/banners/Chops.obj Banners/Chops.obj
 
 EXPORT simventure/sponsor/tents/wide/FlyingMidwest.obj WideTents/PEOSHCanopyFlyingMidwestWide.obj
+EXPORT simventure/sponsor/banners/FlyingMidwest.obj Banners/FlyingMidwest.obj
+
 EXPORT simventure/sponsor/tents/wide/FlyingOutfitters.obj WideTents/PEOSHCanopyFlightOutfittersWide.obj
+EXPORT simventure/sponsor/banners/FlyingOutfitters.obj Banners/FlyingOutfitters.obj
 
 EXPORT simventure/sponsor/tents/wide/ClosedTraffic.obj WideTents/PEOSHCanopyClosedTrafficWide.obj
-EXPORT simventure/sponsor/tents/wide/Emily.obj WideTents/PEOSHCanopyEmilyWide.obj
-EXPORT simventure/sponsor/tents/wide/Chasin.obj WideTents/PEOSHCanopyChasinTailwindsWide.obj
-EXPORT simventure/sponsor/tents/wide/Baron.obj WideTents/PEOSHCanopyBaronPilotWide.obj
-EXPORT simventure/sponsor/tents/wide/Bruno.obj WideTents/PEOSHCanopyBrunoWide.obj
-EXPORT simventure/sponsor/tents/wide/Bro.obj WideTents/PEOSHGreyCanopyBroLogoWide.obj
-EXPORT simventure/sponsor/tents/wide/AOA.obj WideTents/PEOSHGreyCanopyAOALogoWide.obj
+EXPORT simventure/sponsor/banners/ClosedTraffic.obj Banners/ClosedTraffic.obj
 
+EXPORT simventure/sponsor/tents/wide/Emily.obj WideTents/PEOSHCanopyEmilyWide.obj
+EXPORT simventure/sponsor/banners/Emily.obj Banners/Emily.obj
+
+EXPORT simventure/sponsor/tents/wide/Chasin.obj WideTents/PEOSHCanopyChasinTailwindsWide.obj
+EXPORT simventure/sponsor/banners/Chasin.obj Banners/Chasin.obj
+
+EXPORT simventure/sponsor/tents/wide/Baron.obj WideTents/PEOSHCanopyBaronPilotWide.obj
+EXPORT simventure/sponsor/banners/Baron.obj Banners/Baron.obj
+
+EXPORT simventure/sponsor/tents/wide/Bruno.obj WideTents/PEOSHCanopyBrunoWide.obj
+EXPORT simventure/sponsor/banners/Bruno.obj Banners/Bruno.obj
+
+EXPORT simventure/sponsor/tents/wide/Bro.obj WideTents/PEOSHGreyCanopyBroLogoWide.obj
+EXPORT simventure/sponsor/banners/Bro.obj Banners/Bro.obj
+
+EXPORT simventure/sponsor/tents/wide/AOA.obj WideTents/PEOSHGreyCanopyAOALogoWide.obj
+EXPORT simventure/sponsor/banners/AOA.obj Banners/AOA.obj
 
 EXPORT simventure/sponsor/tents/wide/SQKR.obj WideTents/PEOSHWhiteCanopySQKRWhitelogoWide.obj
+EXPORT simventure/sponsor/banners/SQKR.obj Banners/SQKR.obj
+
 EXPORT simventure/sponsor/tents/wide/SLA.obj WideTents/PEOSHWhiteCanopySLAlogoWide.obj
+EXPORT simventure/sponsor/banners/SLA.obj Banners/SLA.obj
+
 EXPORT simventure/sponsor/tents/wide/HCA.obj WideTents/PEOSHWhiteCanopyHCAlogoWide.obj
+EXPORT simventure/sponsor/banners/HCA.obj Banners/HCA.obj
+
 EXPORT simventure/sponsor/tents/wide/AOPAWhite.obj WideTents/PEOSHWhiteCanopyAOPAlogoWide.obj
+EXPORT simventure/sponsor/banners/AOPAWhite.obj Banners/AOPAWhite.obj
+
 EXPORT simventure/sponsor/tents/wide/AOPANavy.obj WideTents/PEOSHNavyCanopyAOPAlogoWide.obj
+EXPORT simventure/sponsor/banners/AOPANavy.obj Banners/AOPANavy.obj
 
