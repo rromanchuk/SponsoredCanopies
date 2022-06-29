@@ -3,6 +3,7 @@ A
 LIBRARY
 
 EXPORT simventure/sponsor/tents/wide/BLU.obj WideTents/PEOSHBlackCanopyBLULogoWide.obj
+EXPORT simventure/sponsor/banners/BLU.obj Banners/BLU.obj
 
 EXPORT simventure/sponsor/tents/wide/GLEIM.obj WideTents/PEOSHCanopyGleimWide.obj
 EXPORT simventure/sponsor/banners/GLEIM.obj Banners/GLEIM.obj
@@ -12,7 +13,6 @@ EXPORT simventure/sponsor/banners/Sportys.obj Banners/Sportys.obj
 
 EXPORT simventure/sponsor/tents/wide/FSA.obj WideTents/PEOSHCanopyFSAWide.obj
 EXPORT simventure/sponsor/banners/FSA.obj Banners/FSA.obj
-
 
 EXPORT simventure/sponsor/tents/wide/NAFI.obj WideTents/PEOSHCanopyNAFIWide.obj
 EXPORT simventure/sponsor/banners/NAFI.obj Banners/NAFI.obj

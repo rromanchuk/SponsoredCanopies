@@ -2,14 +2,163 @@
 <!-- written by WED 2.4.0r2 -->
 <doc>
   <objects>
+    <object class="WED_ObjPlacement" id="85" parent_id="4">
+      <children/>
+      <hierarchy name="BLU.obj" locked="0" hidden="0"/>
+      <point latitude="43.980689297" longitude="-88.560845872" heading="270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/BLU.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="84" parent_id="4">
+      <children/>
+      <hierarchy name="BLU.obj" locked="0" hidden="0"/>
+      <point latitude="43.980691131" longitude="-88.560982636" heading="88.15"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/BLU.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="83" parent_id="46">
+      <children/>
+      <hierarchy name="FlyingMidwest.obj" locked="0" hidden="0"/>
+      <point latitude="43.980622717" longitude="-88.561492829" heading="90.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/FlyingMidwest.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="82" parent_id="46">
+      <children/>
+      <hierarchy name="FlyingMidwest.obj" locked="0" hidden="0"/>
+      <point latitude="43.980621079" longitude="-88.561340060" heading="271.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/FlyingMidwest.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="81" parent_id="46">
+      <children/>
+      <hierarchy name="GLEIM.obj" locked="0" hidden="0"/>
+      <point latitude="43.978470322" longitude="-88.561531559" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/GLEIM.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="80" parent_id="46">
+      <children/>
+      <hierarchy name="GLEIM.obj" locked="0" hidden="0"/>
+      <point latitude="43.978561162" longitude="-88.561530379" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/GLEIM.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="79" parent_id="46">
+      <children/>
+      <hierarchy name="ThrustMasters.obj" locked="0" hidden="0"/>
+      <point latitude="43.978092608" longitude="-88.561135423" heading="1.30"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/ThrustMasters.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="78" parent_id="46">
+      <children/>
+      <hierarchy name="ThrustMasters.obj" locked="0" hidden="0"/>
+      <point latitude="43.978185825" longitude="-88.561138255" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/ThrustMasters.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="77" parent_id="46">
+      <children/>
+      <hierarchy name="FSA.obj" locked="0" hidden="0"/>
+      <point latitude="43.978108658" longitude="-88.561992409" heading="1.74"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/FSA.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="76" parent_id="46">
+      <children/>
+      <hierarchy name="FSA.obj" locked="0" hidden="0"/>
+      <point latitude="43.978194439" longitude="-88.561988313" heading="181.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/FSA.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="75" parent_id="46">
+      <children/>
+      <hierarchy name="Sportys.obj" locked="0" hidden="0"/>
+      <point latitude="43.978071690" longitude="-88.561641424" heading="268.15"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/Sportys.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="74" parent_id="46">
+      <children/>
+      <hierarchy name="Sportys.obj" locked="0" hidden="0"/>
+      <point latitude="43.978071180" longitude="-88.561782289" heading="91.22"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/Sportys.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="73" parent_id="46">
+      <children/>
+      <hierarchy name="NAFI.obj" locked="0" hidden="0"/>
+      <point latitude="43.977688393" longitude="-88.560516480" heading="358.94"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/NAFI.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="72" parent_id="46">
+      <children/>
+      <hierarchy name="NAFI.obj" locked="0" hidden="0"/>
+      <point latitude="43.977788855" longitude="-88.560517463" heading="182.16"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/NAFI.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="71" parent_id="46">
+      <children/>
+      <hierarchy name="RSG.obj" locked="0" hidden="0"/>
+      <point latitude="43.978053388" longitude="-88.560224492" heading="270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/RSG.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="70" parent_id="46">
+      <children/>
+      <hierarchy name="RSG.obj" locked="0" hidden="0"/>
+      <point latitude="43.978055588" longitude="-88.560348848" heading="90.89"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/RSG.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="69" parent_id="45">
+      <children/>
+      <hierarchy name="Emily.obj" locked="0" hidden="0"/>
+      <point latitude="43.980085012" longitude="-88.560938914" heading="87.27"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/Emily.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="68" parent_id="45">
+      <children/>
+      <hierarchy name="Emily.obj" locked="0" hidden="0"/>
+      <point latitude="43.980084503" longitude="-88.560812910" heading="267.71"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/Emily.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="66" parent_id="45">
+      <children/>
+      <hierarchy name="Chops.obj" locked="0" hidden="0"/>
+      <point latitude="43.980697942" longitude="-88.560622244" heading="0.48"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/Chops.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="35" parent_id="45">
+      <children/>
+      <hierarchy name="BLU.obj" locked="0" hidden="0"/>
+      <point latitude="43.980708912" longitude="-88.560971354" heading="1.93"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/BLU.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="47" parent_id="46">
       <children/>
       <hierarchy name="SLA.obj" locked="0" hidden="0"/>
       <point latitude="43.977669588" longitude="-88.561815877" heading="270.00"/>
       <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/SLA.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="57" parent_id="46">
+      <children/>
+      <hierarchy name="4LE.obj" locked="0" hidden="0"/>
+      <point latitude="43.980612915" longitude="-88.561069297" heading="86.42"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="Banners/4LE.obj" show_level="2 A lot"/>
+    </object>
+    <object class="WED_ObjPlacement" id="34" parent_id="46">
+      <children/>
+      <hierarchy name="FlyingOutfitters.obj" locked="0" hidden="0"/>
+      <point latitude="43.977886730" longitude="-88.561340610" heading="270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/FlyingOutfitters.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_Group" id="46" parent_id="4">
       <children>
+        <child id="83"/>
+        <child id="82"/>
+        <child id="81"/>
+        <child id="80"/>
+        <child id="79"/>
+        <child id="78"/>
+        <child id="77"/>
+        <child id="76"/>
+        <child id="75"/>
+        <child id="74"/>
+        <child id="73"/>
+        <child id="72"/>
+        <child id="57"/>
+        <child id="56"/>
+        <child id="55"/>
+        <child id="54"/>
+        <child id="53"/>
         <child id="47"/>
         <child id="34"/>
         <child id="33"/>
@@ -17,6 +166,8 @@
         <child id="32"/>
         <child id="31"/>
         <child id="30"/>
+        <child id="71"/>
+        <child id="70"/>
         <child id="29"/>
         <child id="28"/>
         <child id="26"/>
@@ -29,8 +180,33 @@
       </children>
       <hierarchy name="Sponsor" locked="0" hidden="0"/>
     </object>
+    <object class="WED_ObjPlacement" id="56" parent_id="46">
+      <children/>
+      <hierarchy name="4LE.obj" locked="0" hidden="0"/>
+      <point latitude="43.980612151" longitude="-88.560951918" heading="270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="Banners/4LE.obj" show_level="2 A lot"/>
+    </object>
+    <object class="WED_ObjPlacement" id="33" parent_id="46">
+      <children/>
+      <hierarchy name="ThrustMasters.obj" locked="0" hidden="0"/>
+      <point latitude="43.978181513" longitude="-88.561235145" heading="-270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/ThrustMasters.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="55" parent_id="46">
+      <children/>
+      <hierarchy name="OpposingBases.obj" locked="0" hidden="0"/>
+      <point latitude="43.980880420" longitude="-88.561570547" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="Banners/OpposingBases.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="22" parent_id="46">
+      <children/>
+      <hierarchy name="JustPlaneSilly.obj" locked="0" hidden="0"/>
+      <point latitude="43.978803792" longitude="-88.567433003" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/JustPlaneSilly.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_Group" id="45" parent_id="4">
       <children>
+        <child id="52"/>
         <child id="51"/>
         <child id="50"/>
         <child id="49"/>
@@ -38,8 +214,12 @@
         <child id="43"/>
         <child id="42"/>
         <child id="41"/>
+        <child id="66"/>
+        <child id="62"/>
         <child id="40"/>
         <child id="39"/>
+        <child id="69"/>
+        <child id="68"/>
         <child id="38"/>
         <child id="37"/>
         <child id="36"/>
@@ -47,6 +227,18 @@
         <child id="48"/>
       </children>
       <hierarchy name="Streamers" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="54" parent_id="46">
+      <children/>
+      <hierarchy name="OpposingBases.obj" locked="0" hidden="0"/>
+      <point latitude="43.980795538" longitude="-88.561571885" heading="356.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="Banners/OpposingBases.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="21" parent_id="46">
+      <children/>
+      <hierarchy name="SkyBlueRadio.obj" locked="0" hidden="0"/>
+      <point latitude="43.978894027" longitude="-88.567469844" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/SkyBlueRadio.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="44" parent_id="45">
       <children/>
@@ -59,6 +251,12 @@
       <hierarchy name="AOA.obj" locked="0" hidden="0"/>
       <point latitude="43.981226028" longitude="-88.559987351" heading="-0.03"/>
       <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/AOA.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="20" parent_id="46">
+      <children/>
+      <hierarchy name="OpposingBases.obj" locked="0" hidden="0"/>
+      <point latitude="43.978717180" longitude="-88.567335996" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/OpposingBases.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="42" parent_id="45">
       <children/>
@@ -102,24 +300,6 @@
       <point latitude="43.980798579" longitude="-88.561481769" heading="-90.01"/>
       <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/OpposingBases.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="35" parent_id="45">
-      <children/>
-      <hierarchy name="BLU.obj" locked="0" hidden="0"/>
-      <point latitude="43.980708912" longitude="-88.560971354" heading="1.93"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/BLU.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="34" parent_id="46">
-      <children/>
-      <hierarchy name="FlyingOutfitters.obj" locked="0" hidden="0"/>
-      <point latitude="43.977886730" longitude="-88.561340610" heading="270.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/FlyingOutfitters.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="33" parent_id="46">
-      <children/>
-      <hierarchy name="ThrustMasters.obj" locked="0" hidden="0"/>
-      <point latitude="43.978181513" longitude="-88.561235145" heading="-270.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/ThrustMasters.obj" show_level="1 Default"/>
-    </object>
     <object class="WED_ObjPlacement" id="32" parent_id="46">
       <children/>
       <hierarchy name="SQKR.obj" locked="0" hidden="0"/>
@@ -132,47 +312,11 @@
       <point latitude="43.978085187" longitude="-88.561768074" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/SPORTYS.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_ObjPlacement" id="30" parent_id="46">
-      <children/>
-      <hierarchy name="RSG.obj" locked="0" hidden="0"/>
-      <point latitude="43.978076712" longitude="-88.560346113" heading="0.60"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/RSG.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="29" parent_id="46">
-      <children/>
-      <hierarchy name="NAFI.obj" locked="0" hidden="0"/>
-      <point latitude="43.977701989" longitude="-88.560423897" heading="270.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/NAFI.obj" show_level="1 Default"/>
-    </object>
     <object class="WED_ObjPlacement" id="28" parent_id="46">
       <children/>
       <hierarchy name="GLEIM.obj" locked="0" hidden="0"/>
       <point latitude="43.978557115" longitude="-88.561621380" heading="90.00"/>
       <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/GLEIM.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="22" parent_id="46">
-      <children/>
-      <hierarchy name="JustPlaneSilly.obj" locked="0" hidden="0"/>
-      <point latitude="43.978803792" longitude="-88.567433003" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/JustPlaneSilly.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="20" parent_id="46">
-      <children/>
-      <hierarchy name="OpposingBases.obj" locked="0" hidden="0"/>
-      <point latitude="43.978717180" longitude="-88.567335996" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/OpposingBases.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="21" parent_id="46">
-      <children/>
-      <hierarchy name="SkyBlueRadio.obj" locked="0" hidden="0"/>
-      <point latitude="43.978894027" longitude="-88.567469844" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/SkyBlueRadio.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="27" parent_id="46">
-      <children/>
-      <hierarchy name="FSA.obj" locked="0" hidden="0"/>
-      <point latitude="43.978196168" longitude="-88.562084797" heading="90.54"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/FSA.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="51" parent_id="45">
       <children/>
@@ -182,16 +326,18 @@
     </object>
     <object class="WED_Group" id="4" parent_id="1">
       <children>
+        <child id="85"/>
+        <child id="84"/>
         <child id="45"/>
         <child id="46"/>
       </children>
       <hierarchy name="world" locked="0" hidden="0"/>
     </object>
-    <object class="WED_ObjPlacement" id="26" parent_id="46">
+    <object class="WED_ObjPlacement" id="27" parent_id="46">
       <children/>
-      <hierarchy name="AOPAWhite.obj" locked="0" hidden="0"/>
-      <point latitude="43.977522581" longitude="-88.561228497" heading="180.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/AOPAWhite.obj" show_level="1 Default"/>
+      <hierarchy name="FSA.obj" locked="0" hidden="0"/>
+      <point latitude="43.978196168" longitude="-88.562084797" heading="90.54"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/FSA.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="50" parent_id="45">
       <children/>
@@ -206,11 +352,11 @@
         <key name="airport" id="0"/>
       </keys>
     </object>
-    <object class="WED_ObjPlacement" id="25" parent_id="46">
+    <object class="WED_ObjPlacement" id="26" parent_id="46">
       <children/>
-      <hierarchy name="KING.obj" locked="0" hidden="0"/>
-      <point latitude="43.978739986" longitude="-88.561337247" heading="92.03"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/KING.obj" show_level="1 Default"/>
+      <hierarchy name="AOPAWhite.obj" locked="0" hidden="0"/>
+      <point latitude="43.977522581" longitude="-88.561228497" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/AOPAWhite.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="49" parent_id="45">
       <children/>
@@ -222,14 +368,14 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="51"/>
+        <sel id="85"/>
       </selection>
     </object>
-    <object class="WED_ObjPlacement" id="48" parent_id="45">
+    <object class="WED_ObjPlacement" id="25" parent_id="46">
       <children/>
-      <hierarchy name="SkyBlueRadio.obj" locked="0" hidden="0"/>
-      <point latitude="43.980745281" longitude="-88.560107483" heading="180.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/SkyBlueRadio.obj" show_level="1 Default"/>
+      <hierarchy name="KING.obj" locked="0" hidden="0"/>
+      <point latitude="43.978739986" longitude="-88.561337247" heading="92.03"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/KING.obj" show_level="1 Default"/>
     </object>
     <object class="WED_Root" id="1" parent_id="0">
       <children>
@@ -239,11 +385,11 @@
       </children>
       <hierarchy name="root"/>
     </object>
-    <object class="WED_ObjPlacement" id="24" parent_id="46">
+    <object class="WED_ObjPlacement" id="48" parent_id="45">
       <children/>
-      <hierarchy name="Baron.obj" locked="0" hidden="0"/>
-      <point latitude="43.978756664" longitude="-88.567186130" heading="0.0"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/Baron.obj" show_level="1 Default"/>
+      <hierarchy name="SkyBlueRadio.obj" locked="0" hidden="0"/>
+      <point latitude="43.980745281" longitude="-88.560107483" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/SkyBlueRadio.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="23" parent_id="46">
       <children/>
@@ -251,22 +397,58 @@
       <point latitude="43.978880865" longitude="-88.566975111" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/Bruno.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="24" parent_id="46">
+      <children/>
+      <hierarchy name="Baron.obj" locked="0" hidden="0"/>
+      <point latitude="43.978756664" longitude="-88.567186130" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/Baron.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="52" parent_id="45">
+      <children/>
+      <hierarchy name="2RF.obj" locked="0" hidden="0"/>
+      <point latitude="43.981087125" longitude="-88.561386621" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/2RF.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="29" parent_id="46">
+      <children/>
+      <hierarchy name="NAFI.obj" locked="0" hidden="0"/>
+      <point latitude="43.977701989" longitude="-88.560423897" heading="270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/NAFI.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="62" parent_id="45">
+      <children/>
+      <hierarchy name="Chops.obj" locked="0" hidden="0"/>
+      <point latitude="43.980787016" longitude="-88.560622736" heading="179.08"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/banners/Chops.obj" show_level="4 Mega tons"/>
+    </object>
+    <object class="WED_ObjPlacement" id="53" parent_id="46">
+      <children/>
+      <hierarchy name="NAVI.obj" locked="0" hidden="0"/>
+      <point latitude="43.977798690" longitude="-88.559883220" heading="91.59"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/NAVI.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="30" parent_id="46">
+      <children/>
+      <hierarchy name="RSG.obj" locked="0" hidden="0"/>
+      <point latitude="43.978076712" longitude="-88.560346113" heading="0.60"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="simventure/sponsor/tents/wide/RSG.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed"/>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="204"/>
-    <pref name="map/east" value="-88.559344"/>
+    <pref name="map/east" value="-88.560355"/>
     <pref name="map/navaid_map_vis" value="0"/>
-    <pref name="map/north" value="43.979926"/>
+    <pref name="map/north" value="43.980990"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="2"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="43.976745"/>
+    <pref name="map/south" value="43.980225"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="-88.563297"/>
+    <pref name="map/west" value="-88.561305"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Autogen_Autogen Height" value="10.000000"/>
@@ -291,7 +473,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="src/handyobjects/Dirt_Track.lin"/>
-    <pref name="map_Objects_Object" value="simventure/sponsor/tents/wide/4LE.obj"/>
+    <pref name="map_Objects_Object" value="simventure/sponsor/banners/BLU.obj"/>
     <pref name="map_Objects_Show with" value="749"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="MisterX_Library/Airport/Ground_Markings/Painted_Signs/Characters_White.pol"/>
@@ -346,23 +528,23 @@
     <pref name="map_Truck Parking_Truck Type" value="154"/>
     <pref name="map_Vertex_Snap To Vertices" value="1"/>
     <pref name="map_Windsock_Lit" value="0"/>
-    <pref name="map_preview_window/camera_agl" value="90.336808"/>
-    <pref name="map_preview_window/camera_lat" value="43.978880"/>
-    <pref name="map_preview_window/camera_lon" value="-88.560802"/>
-    <pref name="map_preview_window/camera_pitch" value="-24.600016"/>
-    <pref name="map_preview_window/camera_yaw" value="0.400001"/>
-    <pref name="map_preview_window/height" value="628"/>
+    <pref name="map_preview_window/camera_agl" value="7.847092"/>
+    <pref name="map_preview_window/camera_lat" value="43.980574"/>
+    <pref name="map_preview_window/camera_lon" value="-88.561307"/>
+    <pref name="map_preview_window/camera_pitch" value="-11.399999"/>
+    <pref name="map_preview_window/camera_yaw" value="55.600082"/>
+    <pref name="map_preview_window/height" value="572"/>
     <pref name="map_preview_window/visible" value="0"/>
     <pref name="map_preview_window/width" value="1024"/>
-    <pref name="map_preview_window/x_loc" value="262"/>
-    <pref name="map_preview_window/y_loc" value="900"/>
+    <pref name="map_preview_window/x_loc" value="176"/>
+    <pref name="map_preview_window/y_loc" value="905"/>
     <pref name="window/height" value="1297"/>
     <pref name="window/main_split" value="335"/>
     <pref name="window/main_split2" value="1543"/>
-    <pref name="window/prev_split" value="1013"/>
-    <pref name="window/prop_split" value="789"/>
+    <pref name="window/prev_split" value="1053"/>
+    <pref name="window/prop_split" value="829"/>
     <pref name="window/width" value="2560"/>
-    <pref name="window/x_loc" value="491"/>
-    <pref name="window/y_loc" value="1446"/>
+    <pref name="window/x_loc" value="907"/>
+    <pref name="window/y_loc" value="1447"/>
   </prefs>
 </doc>
